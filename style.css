@@ -1,0 +1,16 @@
+body{
+    background-color: #18191f;
+}
+p#text{
+    background: url("intro-bg.jpeg");
+    font-family: 'Poppins', sans-serif;
+    line-height: 20px;
+    background: url("intro-bg.jpeg");
+    -webkit-background-clip: text;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+    background-size: 180vh;
+    background-position: center;
+;
+}
